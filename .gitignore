@@ -1,0 +1,8 @@
+article/
+*.swp
+*.Rhistory
+application_simulated_data/old/
+application_simulated_data/to_do_list
+application_simulated_data/R/test.R
+application_simulated_data/output_2018-04-19
+application_real_data/
